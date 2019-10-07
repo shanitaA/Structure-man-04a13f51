@@ -1,0 +1,27 @@
+/*caption*/
+caption{
+	caption-side:bottom;
+}
+/*Rooster van table*/
+table{
+	 border-collapse: collapse;
+	  border: 2px solid rgb(150%, 300%);
+	}
+/*Inhoud*/
+th{
+    border: 2px solid rgb(200, 200, 200);
+    padding: 10px 50px 20px;
+    background-color:lightgray;
+}
+
+td{
+	 border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+     padding: 10px 50px 20px;
+     background-color:gray;
+     color:white;
+}
+
+a{
+	color:white;
+}
